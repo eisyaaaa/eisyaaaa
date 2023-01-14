@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! I'm  **Atrisyia**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **my profile** on the left corner of the navigation bar.
-- The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
+Hi! I'm  **Atrisyia**. A 26 years old women who's working as QA and pursuing degree at **Universiti Teknologi Malaysia**.
+
+Three keywords to define me **Energetic**, **Foodie** or **Hungry**.
+	> You can reach me via **LinkedIn**.
