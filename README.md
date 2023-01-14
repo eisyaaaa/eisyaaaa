@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 Hi! I'm  **Atrisyia**. A 26 years old women who's working as QA and pursuing degree at **Universiti Teknologi Malaysia**.
 
-Three keywords to define me **Energetic**, **Foodie** or **Hungry**.
-	> You can reach me via **LinkedIn**.
