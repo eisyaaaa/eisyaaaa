@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi! I'm  **Atrisyia**. A 26 years old women who's working as QA and pursuing degree at **Universiti Teknologi Malaysia**.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eisyaaaa&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="left">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eisyaaaa&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)</p>
