@@ -20,4 +20,5 @@ Hi! I'm  **Atrisyia**. A 26 years old women who's working as QA and pursuing deg
 <summary>Click for GitHub Stats</summary>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eisyaaaa&theme=tokyonight_duo)](https://git.io/streak-stats)
+  </br>
   <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eisyaaaa&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
