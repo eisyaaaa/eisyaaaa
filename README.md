@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! I'm  **Atrisyia**. A 26 years old women who's working as QA and pursuing degree at **Universiti Teknologi Malaysia**.
+Hi! I'm  **Atrisyia**. Pursuing degree at **Universiti Teknologi Malaysia**.
 
 <details>
 <summary>Click for GitHub Stats</summary>
