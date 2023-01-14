@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **eisyaaaa/eisyaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,8 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-Hi! I'm  **Atrisyia**. Pursuing degree at **Universiti Teknologi Malaysia**.
 
 <details>
 <summary>Click for GitHub Stats</summary>
